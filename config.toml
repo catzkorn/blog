@@ -1,56 +1,63 @@
-publishDir = "docs"
-canonifyURLs = true
-baseurl = "https://jbrandhorst.com"
-DefaultContentLanguage = "en"
-title = "Go Ahead"
-theme = "beautifulhugo"
-metaDataFormat = "yaml"
-pygmentsCodefences = true
-pygmentsStyle= "friendly"
-googleAnalytics = "UA-96154465-1"
+# DO NOT REMOVE THIS
+theme = "hugo-theme-codex" 
 
-[Params]
-	subtitle = "Golang, gRPC and friends"
-	logo = "img/icon.jpg"
-	favicon = "img/favicon.ico"
-	dateFormat = "January 2, 2006"
-	commit = false
-	rss = true
-	comments = true
-	readingTime = true
+# Override these settings with your own
+title = "Catzkorn"
+languageCode = "en-gb"
+baseURL = "https://catzkorn.dev/"
+copyright = "© {year}"
 
-	[Params.staticman]
-		api = "https://api.staticman.net/v2/entry/johanbrandhorst/blog/master/comments"
-		pulls = "https://github.com/johanbrandhorst/blog/pulls"
-		[Params.staticman.recaptcha]
-			sitekey = "6LeZpToUAAAAAIVoByULm4eunmCL76Arn0dH-q8z"
-			secret = "akUFoQUbDksw1BVWS162FgkLB65EwI85zeOQcPEmzXPULmhiE+d/LU/FKfnbeUjetjVeZmIDmEGNCKQc+8Er7rH1nAOJP6bN3oJvi/YtbSKEZfUdXAKvECyPfjl7J0rQ3YvtvEQX4VnyKqnAMottOaIZ3CXRI9TwbFFgYjSSJwQ="
+# Add your Disqus shortname here.
+# disqusShortname = ""
 
+# Add your Google Analytics identifier: UA-XXXXXXXX-X
+# googleAnalytics = "" 
 
-[Author]
-	name = "Johan Brandhorst"
-	github = "johanbrandhorst"
-	twitter = "JohanBrandhorst"
-	linkedin = "johan-brandhorst-satzkorn-aa318220"
-	website = "https://jbrandhorst.com"
+# Optional params
+[params]
+  # Follow the Hugo date/time format reference here: 
+  # https://gohugo.io/functions/format/#gos-layout-string
+  dateFormat = "Jan 2 2006"
+
+  # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
+  twitter = "https://twitter.com/catzkorn"
+  github = "https://github.com/catzkorn"
+  # email = "mailto:<your email>"
+  # facebook = "https://facebook.com/<your handle>"
+  # gitlab = "https://gitlab.com/<your handle>"
+  # instagram = "https://instagram.com/<your handle>"
+  linkedin = "https://linkedin.com/in/catzkorn"
+  # youtube = "https://www.youtube.com/channel/<your channel>"
+  
+  # Titles for your icons (shown as tooltips), and also their display order.
+  # Currently, these icons are supported: 
+  #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
+  iconTitles = ["Twitter", "GitHub","LinkedIn"]
+
+# This disables Hugo's default syntax highlighting in favor
+# of prismjs. If you wish to use Hugo's default syntax highlighting
+# over prismjs, remove this. You will also need to remove the prismjs
+# vendor script in layouts/blog/single.html.
+[markup]
+  [markup.highlight]
+    codeFences = false
+    
+  # Set to false to disallow raw HTML in markdown files
+  [markup.goldmark.renderer]
+      unsafe = true
+
+# Controls the navigation
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About"
+  url = "/"
 
 [[menu.main]]
-	name = "Blog"
-	url = ""
-	weight = 1
+  identifier = "blog"
+  name = "blog"
+  title = "Blog"
+  url = "/blog"
 
-[[menu.main]]
-	name = "About"
-	url = "page/about/"
-	weight = 2
 
-[[menu.main]]
-	name = "Presentations"
-	url = "page/presentations/"
-	weight = 3
-
-[[menu.main]]
-	name = "Tags"
-	url = "tags"
-	weight = 4
 

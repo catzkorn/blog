@@ -1,19 +1,19 @@
 [build]
-  publish = "docs"
+  publish = "public"
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.36.1"
+  HUGO_VERSION = "0.74.1"
   HUGO_ENABLEGITINFO = "true"
 
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.36.1"
+  HUGO_VERSION = "0.74.1"
 
 [context.branch-deploy]
-  command = "hugo -b https://${BRANCH}.jbrandhorst.com"
+  command = "hugo -b https://${BRANCH}.catzkorn.dev"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.36.1"
+  HUGO_VERSION = "0.74.1"
