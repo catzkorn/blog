@@ -1,0 +1,14 @@
+// custom.scss
+.fancy {
+  color: #7eaeab;
+}
+
+
+
+// custom.scss
+.fancy {
+  color: {{ .Site.Params.colors.fancy | default "#7eaeab" }}
+}
+
+
+

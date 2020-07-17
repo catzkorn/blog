@@ -1,6 +1,6 @@
 ---
 title: "1.0"
-date: 2020-07-16
+date: 2020-07-16T09:19:29-04:00
 slug: "1"
 description: "The start"
 keywords: ["coding", "bootcamp", "makers", "learning"]
