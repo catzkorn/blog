@@ -43,8 +43,6 @@ This week has not just provided technical growth, but personal growth as well. T
 
 Firstly, in the opening pages of the curriculum, a sentence stood out to me: 
 
-&nbsp; 
-
 <div style="text-align: center"> <b>Own your progress</b> </div>
 
 
