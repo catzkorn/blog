@@ -27,6 +27,8 @@ The week has been a strong case of _Wow, I know this! What a confidence boost!_ 
 
 The command line is an incredibly powerful tool, and by far my favourite experience has been using pipes (`|`). At first I was completely confused as to what on earth they did, but as the learning progressed so did the understanding of their function in my brain and it started to become fun.
 
+The week one course was wrapped up by a fun challenge using all the skills that we had been introduced (or reintroduced) to. Taking all these elements and using them to achieve an objective really helped with my confidence and to retain the information!
+
 I did manage to cry over a programming challenge this week, not a part of the Makers curriculum. Frustratingly, the cause of my woes was as simple as not separating a loop into two `if` statements, rather than one. As frustrating as it is, I hopefully won't make the same error again!
 
 ## Tools, Glorious Tools
