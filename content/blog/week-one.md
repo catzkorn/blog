@@ -7,7 +7,7 @@ keywords: ["coding", "bootcamp", "makers", "learning"]
 draft: false
 tags: ["blog", "makers"]
 math: false
-toc: false #table of contents on the right
+toc: true #table of contents on the right
 ---
 
 
@@ -42,6 +42,7 @@ This tool for me, as a dyslexic, has been phenomenal. It doesn't completely repl
 This week has not just provided technical growth, but personal growth as well. There have been two moments, both of which related to the same topic, which been impactful on my mindset.
 
 Firstly, in the opening pages of the curriculum, a sentence stood out to me: 
+
 
 <div style="text-align: center"> <b>Own your progress</b> </div>
 
