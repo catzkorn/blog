@@ -101,7 +101,7 @@ I'm adding this extra part, partially for humor and partially to shame/remind my
 
 In the process of going to commit and push this post for the world to see, I wanted to change the file name. Rather than right-clicking and pressing rename, I pressed delete and apparently didn't have the 'Are you really sure you want to do this?' box enabled.
 
-Not to worry right? It's in my bin. So off I trot, into the bin to retrieve the 2 days of love and emotion I had put into these words. Whoop, there it is! But of course I am Charlotte, Queen of Charlotteisms. Rather than click 'put back' as I wanted to, in my panic, I clicked empty trash. And then yes, I then went on to press _Empty Trash_ when it asked me to confirmed. This really was a Homer Simpson DOH! moment.
+Not to worry right? It's in my bin. So off I trot, into the bin to retrieve the 2 days of love and emotion I had put into these words. Whoop, there it is! But of course I am Charlotte, Queen of Charlotteisms. Rather than click 'put back' as I wanted to, in my panic, I clicked empty trash. And then yes, I then went on to press _Empty Trash_ again when it asked me to confirm. This really was a Homer Simpson DOH! moment.
 
 Luckily for me, I had staged the post in VS code, so with a bit of `git fsck --lost-found` and `git show` magic, the post is back in all its glory. If you, too, have had your very own Charlotte moment, you can get more information on how to retrieve a staged post [here](https://stackoverflow.com/questions/11094968/in-git-how-can-i-recover-a-staged-file-that-was-reverted-prior-to-committing).
 
