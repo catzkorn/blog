@@ -26,7 +26,7 @@ On Tuesday night, I opened up to my husband about the feelings I was having. Is 
 
 We got to a point in our discussion where he asked me, what do I want to be? What do I want from this? Without hesitation, I responded;
 
-_"I want to be a damn good software engineer, among other things*"_
+_I want to be a damn good software engineer, among other things*_
 
 <sup>*Mountaineer, climber, trail runner, back-country skier, long distance hiker and author.</sup>
 
