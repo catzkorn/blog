@@ -1,8 +1,8 @@
 ---
-title: "Business up Front, Party at the Back"
+title: "Not Falling for Front End"
 date: 2020-09-20
 slug: "business-party"
-description: "Makers Full-Time Week Three: Not Falling for Front End"
+description: "Makers Full-Time Week Three: Was it just a crush?"
 keywords: ["coding", "bootcamp", "makers", "learning"]
 draft: false
 tags: ["blog", "makers"]
