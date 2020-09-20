@@ -1,7 +1,7 @@
 ---
 title: "Not Falling for Front End"
 date: 2020-09-20
-slug: "business-party"
+slug: "falling-front"
 description: "Makers Full-Time Week Three: Was it just a crush?"
 keywords: ["coding", "bootcamp", "makers", "learning"]
 draft: false
