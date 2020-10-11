@@ -10,7 +10,7 @@ math: false
 toc: true #table of contents on the right
 ---
 
-[Makers](https://makers.tech) week six! Done!! Now I am closer to the end than I am the start, and typing that fact makes me so sad. Now I really feel I can start panicking about the _'who will hire me?!'_/_'what am I going to do without my enforced structure?!'_. 2020 has for many of us not been what we wanted it to be. Many of us had set goals for ourselves, many of us were making huge life changing decisions. Instead, here we are, trapped in the midst of a pandemic, watching chaotic elections, and the planet is literally on fire. Sometimes I hope that I could wake up from this nightmare.
+[Makers](https://makers.tech) week six! Done!! Now I am closer to the end than I am the start, and typing that fact makes me so sad. Now I really feel I can start panicking about the _'who will hire me?!'_ / _'what am I going to do without my enforced structure?!'_. 2020 has for many of us not been what we wanted it to be. Many of us had set goals for ourselves, many of us were making huge life changing decisions. Instead, here we are, trapped in the midst of a pandemic, watching chaotic elections, and the planet is literally on fire. Sometimes I hope that I could wake up from this nightmare.
 
 The decision I took to start this process in June is the one _post-march_ positive thing that has happened to me. It gives me some hope that this year wasn't just another one torn from me. While I have those dilemmas about finding and starting a career in this industry, and worrying about descending back into a life of no purpose, they are good dilemmas to have. They are dilemmas I didn't have 5 months ago. 
 
