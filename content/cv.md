@@ -14,7 +14,6 @@ I am a passionate and driven backend developer with a strong curiosity for dev-o
 [Twitter](https://twitter.com/catzkorn) •
 [LinkedIn](https://www.linkedin.com/in/catzkorn/)
 
-
 # Projects
 
 ### Subscrypt
@@ -27,12 +26,12 @@ To help users reduce money wasted on unused or forgotten subscriptions, Subscryp
 
 A kubernetes cluster run on three Raspberry Pi 4's nodes to gain practical understanding of k8s deployment and management.
 
-
 # Education
 
 ### Makers Academy (August 2020 - November 2020)
+#### Software Development Student
 
-Engineering Project: _Subscrypt_
+Makers is an intensive software development bootcamp, delivered remotely. During the course programming fundamentals are taught, including:  
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -40,6 +39,9 @@ Engineering Project: _Subscrypt_
 - RSpec, Jasmine, Capybara
 - Postgresql, ActiveRecord
 - Heroku, AWS, GCP
+- CI/CD, Git
+- Pair programming, Code reviews
+- Junior student mentoring
 
 ### University of Southampton (2014 - 2019)
 #### PhD Candidate, NERC CDT in Oil and Gas
