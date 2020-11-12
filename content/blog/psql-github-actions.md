@@ -10,7 +10,6 @@ math: false
 toc: true #table of contents on the right
 ---
 
-
 I was recent having a problem with TravisCI taking ages to run so I spent some time moving a project over to GitHub Actions.
 
 It has slightly different syntax to the setup in `.travis.yml`, and I struggled to get my pre-test migrations script running.
