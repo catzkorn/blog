@@ -3,7 +3,7 @@ title: "How to setup Postgres with Github Actions"
 date: 2020-11-12
 slug: "postgres-github-actions"
 description: "Migrations and Postgres Services"
-keywords: ["coding", "github", "go", "postgres", "ci" "github actions"]
+keywords: ["coding", "github", "go", "postgres", "ci", "github actions"]
 draft: false
 tags: ["code"]
 math: false
