@@ -20,15 +20,14 @@ I am a passionate and driven backend developer with a strong curiosity for dev-o
 
 Contributor to Showrunner, a backend API supporting the GopherCon conference website. It supports purchasing tickets, viewing the conference agenda, applying as a presenter, sponsorship management, and much more. It is implemented in [Go](https://golang.org/) and [Postgres](https://www.postgresql.org/). The project is deployed on [Encore](https://encore.dev). 
 
-I have so far contributed the initial schema and API design, and am taking a central role in reviewing of other contributions. The project is still in progress.
-
+I have so far contributed the initial schema and API design, and am taking a central role in reviewing other contributions. The project is still in progress.
 
 ## [Subscrypt](https://github.com/Catzkorn/subscrypt)
 ### _Makers Academy Final Engineering Project_
 
-Subscrypt allows users to keep track of their subscriptions and be notified, at their discretion, when renewal is due. The project was completed over two weeks. The backend was written in [Go](https://golang.org/) with [Postgres](https://www.postgresql.org/) for data persistence. The frontend was written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Bootstrap](https://getbootstrap.com/) for styling. [JSON](https://www.json.org/json-en.html) was used for communication between the frontend and backend.
+Subscrypt allows users to keep track of their subscriptions and be notified, at their discretion, when renewal is due. The project was completed over two weeks. The backend was written in [Go](https://golang.org/) with [PostgreSQL](https://www.postgresql.org/) for data persistence. The frontend was written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Bootstrap](https://getbootstrap.com/) for styling. [JSON](https://www.json.org/json-en.html) was used for communication between the frontend and backend. The project was deployed on [Heroku](heroku.com), with continuous integration handled by [Github Actions](https://github.com/features/actions).
 
-The project uses the [Open Banking API](https://www.openbanking.org.uk/) via [Plaid](https://plaid.com/uk/) to demonstrate how a user could integrate the app with their personal banking solutions. Users are sent reminders as .ics files via the [SendGrid](https://sendgrid.com/) email API.
+The project uses the [Open Banking API](https://www.openbanking.org.uk/) via [Plaid](https://plaid.com/uk/) to demonstrate how a user could integrate the app with their personal banking solutions. Users are sent reminders as .ics files via the [SendGrid](https://sendgrid.com/) email API. 
 
 A short presentation of the project is available [on YouTube](https://youtu.be/xYWKSqh-f94).
 
@@ -39,14 +38,13 @@ A short presentation of the project is available [on YouTube](https://youtu.be/x
 
 Makers is an intensive software development bootcamp, delivered remotely. During the course programming fundamentals are taught, including:  
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript 
-- RSpec, Jasmine, Capybara
-- PostgreSQL, ActiveRecord
-- Heroku, AWS, GCP
-- CI/CD, Git
-- Pair programming, Code reviews
+- Languages: Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord), Go
+- Testing: RSpec, Jasmine, Capybara
+- Design principles: OOP, TDD, MVC, DDD
+- Cloud Tech: Heroku, AWS, GCP
+- Tooling: Github Actions, Travis-CI, Git
+- TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
+- Development driven by Agile project management principles 
 
 ## University of Southampton (2014 - 2019)
 ### PhD Candidate, NERC CDT in Oil and Gas
@@ -82,7 +80,7 @@ University of Portsmouth (2014)
 ### Access to Higher Education: Social Sciences (2010-2011)
 
  - 12 Distinctions, 33 Merits achieved at level 3
-### AS Level(2007-2008)
+### AS Level (2007-2008)
  - Computing and Photography 
 
 ## Frensham Heights School (1999-2007)
