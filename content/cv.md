@@ -9,7 +9,7 @@ charlotte@catzkorn.dev •
 [Twitter](https://twitter.com/catzkorn) •
 [LinkedIn](https://www.linkedin.com/in/catzkorn/) •
 Hampshire, UK // Toronto, Canada 
-# Summary
+# Personal Profile
 
 I am a passionate and driven backend developer with a strong curiosity for dev-ops and cyber security. Since leaving the world of geoscience to pursue a career as a software developer, I have reawakened a lifelong passion for technology, learning and innovation that I thought I had lost. I have an appreciation for all aspects of software engineering and strive to be a well-rounded developer. As a survivor of a life threatening illness, I apply a unique perspective and energy to all aspects of my life. I know what I want, and I want to be a _damn good_ software engineer. 
 
