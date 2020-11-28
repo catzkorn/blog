@@ -3,110 +3,92 @@ type: "cv"
 layout: "cv"
 ---
 # Charlotte Brandhorst-Satzkorn
-charlotte@catzkorn.dev •
-[Github](https://github.com/catzkorn) •
-[Blog](https://catzkorn.dev) •
-[Twitter](https://twitter.com/catzkorn) •
-[LinkedIn](https://www.linkedin.com/in/catzkorn/) •
+[charlotte@catzkorn.dev](mailto:charlotte@catzkorn.dev) •
+[github.com/catzkorn](https://github.com/catzkorn) •
+[catzkorn.dev](https://catzkorn.dev) •
+[@catzkorn](https://twitter.com/catzkorn) •
 Hampshire, UK // Toronto, Canada 
 # Personal Profile
 
-I am a passionate and driven backend developer with a strong curiosity for dev-ops and cyber security. Since leaving the world of geoscience to pursue a career as a software developer, I have reawakened a lifelong passion for technology, learning and innovation that I thought I had lost. I have an appreciation for all aspects of software engineering and strive to be a well-rounded developer. As a survivor of a life threatening illness, I apply a unique perspective and energy to all aspects of my life. I know what I want, and I want to be a _damn good_ software engineer. 
+I am a passionate and driven backend developer with an interest in dev-ops and security. In the past four years, I have survived a life threatening illness, left a PhD, gone on a journey of self discovery, and found the thing that drives me: software engineering. Learning to code has reawakened a lifelong passion for technology, learning and innovation I thought I had lost. My bootcamp experience has provided me with a foundation, and now I am searching for a role to grow as a developer. Leaning on the skills I acquired during my research, such as project and time management, allows me to be a valuable contributor to my team. I know what I want in the next four years, and I want to become a _damn good_ software engineer. 
 
 # Projects
 
-## [Showrunner](https://github.com/gopheracademy/showrunner)
+## [github.com/gopheracademy/showrunner](https://github.com/gopheracademy/showrunner)
 ### _Open Source Management System for GopherCon_
 
-Contributor to Showrunner, a backend API supporting the GopherCon conference website. It supports purchasing tickets, viewing the conference agenda, applying as a presenter, sponsorship management, and much more. It is implemented in [Go](https://golang.org/) and [Postgres](https://www.postgresql.org/). The project is deployed on [Encore](https://encore.dev). 
+- Written in [Go](https://golang.org/) and [PostgreSQL](https://www.postgresql.org/)
+- Contributed initial schemas and backend API designs for different areas of application
+- Deployed on [Encore](https://encore.dev)
+- Taking a central role in code reviews 
+- Project is ongoing
 
-I have so far contributed the initial schema and API design, and am taking a central role in reviewing other contributions. The project is still in progress.
-
-## [Subscrypt](https://github.com/Catzkorn/subscrypt)
+## [github.com/catzkorn/subscrypt](https://github.com/Catzkorn/subscrypt)
 ### _Makers Academy Final Engineering Project_
 
-Subscrypt allows users to keep track of their subscriptions and be notified, at their discretion, when renewal is due. The project was completed over two weeks. The backend was written in [Go](https://golang.org/) with [PostgreSQL](https://www.postgresql.org/) for data persistence. The frontend was written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Bootstrap](https://getbootstrap.com/) for styling. [JSON](https://www.json.org/json-en.html) was used for communication between the frontend and backend. The project was deployed on [Heroku](heroku.com), with continuous integration handled by [Github Actions](https://github.com/features/actions).
-
-The project uses the [Open Banking API](https://www.openbanking.org.uk/) via [Plaid](https://plaid.com/uk/) to demonstrate how a user could integrate the app with their personal banking solutions. Users are sent reminders as .ics files via the [SendGrid](https://sendgrid.com/) email API. 
-
-A short presentation of the project is available [on YouTube](https://youtu.be/xYWKSqh-f94).
+- Subscrypt allows users to keep track of their subscriptions and be notified when renewal is due
+- Backend written in [Go](https://golang.org/) with [PostgreSQL](https://www.postgresql.org/) for data persistence
+- Frontend written in [JavaScript](https://en.wikipedia.org/wiki/JavaScript) with [Bootstrap](https://getbootstrap.com/) for styling
+- Integrated the [Open Banking API](https://www.openbanking.org.uk/) via [Plaid](https://plaid.com/uk/) and sent .ics reminders via the [SendGrid](https://sendgrid.com/) email API
+- Deployed on [Heroku](heroku.com), with continuous integration via [Github Actions](https://github.com/features/actions)
+- Responsible for data persistence, email reminders, testing, deployment and documentation
+- A short presentation of the project is available [on YouTube](https://youtu.be/xYWKSqh-f94).
 
 # Education
 
-## Makers Academy (August 2020 - November 2020)
+## Makers Academy Bootcamp (August 2020 - November 2020)
 ### Software Development Student
 
-Makers is an intensive software development bootcamp, delivered remotely. During the course programming fundamentals are taught, including:  
-
-- Languages: Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord), Go
-- Testing: RSpec, Jasmine, Capybara
-- Design principles: OOP, TDD, MVC, DDD
-- Cloud Tech: Heroku, AWS, GCP
-- Tooling: Github Actions, Travis-CI, Git
-- TDD, pair programming and code reviews, focusing on clean code (DRY, SRP, RESTful APIs)
-- Development driven by Agile project management principles 
+- Acquired experience in quickly learning new technologies, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go
+- Extensively practiced TDD principles using RSpec, Jasmine and Capybara
+- Learnt and applied architectural patterns including MVC and DDD
+- Pair programmed extensively during design and development of applications
+- Provided code reviews focusing on OOP, DRY, SRP and RESTful API design
+- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
+- Integrated CI/CD workflows using Github Actions and Travis-CI on Github
+- Development driven by Agile project management principles using Github Projects and Miro  
 
 ## University of Southampton (2014 - 2019)
 ### PhD Candidate, NERC CDT in Oil and Gas
 _Base and Heavy Metal Mobilisation during Hydraulic Fracturing of Black Shales_
 
-The research focused on uncovering and understanding the fluid-rock interactions and subsequent mobilisation of metals which happens during hydraulic fracturing (_fracking_) through simulated laboratory experimentation designed and conducted by myself. The results of the experiments were expected to help inform and guide environmental regulations, and best operating practices, for potential shale exploration onshore within the United Kingdom. 
-
-My PhD was funded through the first cohort of the _NERC CDT in Oil and Gas_. It delivered training by industry leaders in a variety of areas from _Petroleum Economics_ to _Exploration in Challenging Environments_, among others. I withdrew from the program prematurely in 2019 due to illness. 
+- Exploring fluid-rock interactions and metal mobilisation to inform regulation and best practices for shale exploration onshore in the United Kingdom
+- Solely responsible for project management and direction
+- Designed and executed experimental procedures simulating hydraulic fracturing conditions in a laboratory setting
+- Presented research at internal and international conferences 
+- Withdrew from the program prematurely in 2019 due to illness
  
-### Presentations:
-
-University of Southampton (2015)
-  - _An Introduction to Hydraulic Fracturing and Subsurface Pathways for the Contamination of Groundwater Resources_
-   
-TSOP-AASP-ICCP Joint Meeting, Houston, Texas USA (2016)
-
-  - _Metal Mobilisation During Hydraulic Fracturing of the Bowland Shale, UK_
-
-
 ## University of Portsmouth (2011-2014)
 ### Bachelor of Science (Hons) in Environmental Science (2:1)
 _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
 
-A self-led research project re-examining the environmental impacts from acid mine drainage caused by abandoned mine tailings a decade after the site was studied by an independent research group. The research looked to understand if the area was showing signs of entering into natural remediation, or whether it could benefit from further intervention to protect against any further deterioration to the environment.
-
-### Presentations:
-
-University of Portsmouth (2014)
- - _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
-   - _Winner of Best Poster Presentation 2014_
-
-## Alton College (2010-2011)
-### Access to Higher Education: Social Sciences (2010-2011)
-
- - 12 Distinctions, 33 Merits achieved at level 3
-### AS Level (2007-2008)
- - Computing and Photography 
-
-## Frensham Heights School (1999-2007)
- - GCSEs 
+- Researched scientific literature to find follow-up research opportunities 
+- Evolved prior research methodologies to account for improvements in analytical technologies
+- Provided detailed written recommendations for site remediation strategies
+- Awarded _Best Presentation 2014_ for research findings and presentation
 
 # Experience
 
 ## B.M.W Financial Services - Hook, UK (2010)
 ### Financial Support Administrator
-Working within a small team responsible for daily office duties including; 
-- Working with confidential client information
-- Providing information and support to senior managers
-- Documenting company procedures for outsourcing handover
+- Working within a small team to provide site wide administrative support 
+- Communicating with external partners to provide fast and effective solutions to varying issues 
+- Delegating issues to various teams to ensure evenly distributed workloads
+- Responsible for documenting company IT procedures for outsourcing handover
 
 ## Master Cleaners - Farnham & Haslemere, UK (2009-2010) 
 ### Shop Attendant
-- Management of store during working hours
-- Provided excellent customer-specific service 
-- Basic store accounts and money handling
+- Solely responsible for daily store management 
+- Provided customer service by communicating in depth product knowledge when requested  
+- Accurately managed and clearly documented store accounts
 
 ## Otter Nurseries - Ottery St. Mary, UK (2009)
 ### IT Administrator
-- Worked in a small team to provide effective IT solutions for a large multi- site garden centre
-- Writing and preparing copy for publishing in Beautiful Gardens magazine
+- Worked in a small team to provide effective IT solutions for a multi- site garden centre
+- Designed, wrote and edited content for publishing in Beautiful Gardens magazine
 
 # Interests
 
-My personal interests include outdoor sports such as trail running, mountaineering, skiing and climbing. I enjoy reading fiction and non-fiction books, watching movies, playing computer games, listening to music of all genres and I have been a life long fan of motorsport. I continue to have a personal interest in global environmental issues and actively keep up-to-date on the latest science.
+My personal interests include outdoor sports such as trail running, mountaineering, skiing and climbing. I enjoy reading fiction and non-fiction books, watching movies, playing computer games, listening to music of all genres, and I have been a lifelong fan of motorsport. I continue to have a personal interest in global environmental issues and actively keep up-to-date on the latest science. I run a blog about my journey as a new developer.
+
 
