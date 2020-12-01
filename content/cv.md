@@ -24,7 +24,7 @@ I am a passionate and driven backend developer with an interest in dev-ops and s
 - Project is ongoing
 
 ## [github.com/catzkorn/subscrypt](https://github.com/Catzkorn/subscrypt)
-### _Makers Academy Final Engineering Project_
+### _Subscription Management Platform_
 
 - Subscrypt allows users to keep track of their subscriptions and be notified when renewal is due
 - Backend written in [Go](https://golang.org/) with [PostgreSQL](https://www.postgresql.org/) for data persistence
@@ -32,14 +32,14 @@ I am a passionate and driven backend developer with an interest in dev-ops and s
 - Integrated the [Open Banking API](https://www.openbanking.org.uk/) via [Plaid](https://plaid.com/uk/) and sent .ics reminders via the [SendGrid](https://sendgrid.com/) email API
 - Deployed on [Heroku](heroku.com), with continuous integration via [Github Actions](https://github.com/features/actions)
 - Responsible for data persistence, email reminders, testing, deployment and documentation
-- A short presentation of the project is available [on YouTube](https://youtu.be/xYWKSqh-f94).
+- Subscrypt was built as a final engineering project at Makers Academy, and a short presentation of the project is available [on YouTube](https://youtu.be/xYWKSqh-f94).
 
 # Education
 
 ## Makers Academy Bootcamp (August 2020 - November 2020)
 ### Software Development Student
 
-- Acquired experience in quickly learning new technologies, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go
+- Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go
 - Extensively practiced TDD principles using RSpec, Jasmine and Capybara
 - Learnt and applied architectural patterns including MVC and DDD
 - Pair programmed extensively during design and development of applications
@@ -90,5 +90,4 @@ _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings i
 # Interests
 
 My personal interests include outdoor sports such as trail running, mountaineering, skiing and climbing. I enjoy reading fiction and non-fiction books, watching movies, playing computer games, listening to music of all genres, and I have been a lifelong fan of motorsport. I continue to have a personal interest in global environmental issues and actively keep up-to-date on the latest science. I run a blog about my journey as a new developer.
-
 
