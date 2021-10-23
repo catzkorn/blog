@@ -1,5 +1,5 @@
 ---
 heading: "Hi, I'm Charlotte"
-subheading: "Aspiring Dev. Cat Mother. Adventurer. Wife."
+subheading: "Software Engineer. Cat Mother. Adventurer."
 handle: "catzkorn"
 ---
