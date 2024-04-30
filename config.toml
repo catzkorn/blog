@@ -68,8 +68,8 @@ url = "/blog"
 weight = 3
 
 [[menu.main]]
-identifier = "cv"
-name = "cv"
-title = "CV"
-url = "/cv"
+identifier = "resume"
+name = "resume"
+title = "Resume"
+url = "/resume"
 weight = 4
