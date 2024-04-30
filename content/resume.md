@@ -62,10 +62,10 @@ Joined as an early engineer, working across the product from the Tailscale clien
 
 ### Software Development Student
 
-- Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go
-- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku
-- Integrated CI/CD workflows using Github Actions and Travis-CI on Github
-- Development driven by Agile project management principles using Github Projects and Miro
+- Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go.
+- Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku.
+- Integrated CI/CD workflows using Github Actions and Travis-CI on Github.
+- Development driven by Agile project management principles using Github Projects and Miro.
 
 ## University of Southampton (2014 - 2019)
 
@@ -73,22 +73,20 @@ Joined as an early engineer, working across the product from the Tailscale clien
 
 _Base and Heavy Metal Mobilisation during Hydraulic Fracturing of Black Shales_
 
-- Exploring fluid-rock interactions and metal mobilisation to inform regulation and best practices for shale exploration onshore in the United Kingdom
-- Solely responsible for project management and direction
-- Designed and executed experimental procedures simulating hydraulic fracturing conditions in a laboratory setting
-- Presented research at internal and international conferences
-- Withdrew from the program prematurely in 2019 due to illness
+- Exploring fluid-rock interactions and metal mobilisation to inform regulation and best practices for shale exploration onshore in the United Kingdom.
+- Solely responsible for project management and direction, designing and executing experimental procedures simulating hydraulic fracturing conditions in a laboratory setting.
+- Presented research at internal and international conferences.
+- Withdrew from the program prematurely in 2019 due to illness.
 
 ## University of Portsmouth (2011-2014)
 
-### Bachelor of Science (Hons) in Environmental Science (2:1)
+### Bachelor of Science (Hons) in Environmental Science
 
 _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
 
-- Researched scientific literature to find follow-up research opportunities
-- Evolved prior research methodologies to account for improvements in analytical technologies
-- Provided detailed written recommendations for site remediation strategies
-- Awarded _Best Presentation 2014_ for research findings and presentation
+- Researched scientific literature to find follow-up research opportunities.
+- Evolved prior research methodologies to account for improvements in analytical technologies.
+- Awarded _Best Presentation 2014_ for research findings and presentation.
 
 # Interests
 
