@@ -48,7 +48,7 @@ Joined as an early engineer, working across the product from the Tailscale clien
 
 ## Open Source Contributions
 
-### _[Go net/http](https://go-review.googlesource.com/c/go/+/358134) - Correct Content-Length parsing for js/wasm_
+### _[net/http](https://go-review.googlesource.com/c/go/+/358134) - Content-Length parsing for js/wasm_
 
 - Corrected parsing of Content-Length header in the `net/http` library for the `js/wasm` HTTP client.
 
