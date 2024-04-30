@@ -58,14 +58,10 @@ Joined as an early engineer, working across the product from the Tailscale clien
 
 # Education
 
-## Makers Academy Bootcamp (August 2020 - November 2020)
-
-### Software Development Student
+## Makers Academy Bootcamp (2020)
 
 - Built applications in variety of languages, including Ruby, Rails, JavaScript, SQL (PostgreSQL, ActiveRecord) and Go.
 - Deployed to, and interacted with, cloud platforms including AWS, GCP and Heroku.
-- Integrated CI/CD workflows using Github Actions and Travis-CI on Github.
-- Development driven by Agile project management principles using Github Projects and Miro.
 
 ## University of Southampton (2014 - 2019)
 
