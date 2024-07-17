@@ -16,7 +16,9 @@ I am a meticulous user-experience driven engineer focusing on producing high qua
 
 # Experience
 
-## Tailscale (March 2021 - present)
+## Sabbatical (July 2024 - present)
+
+## Tailscale (March 2021 - July 2024)
 
 ### _Senior Software Engineer_
 
