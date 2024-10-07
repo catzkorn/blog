@@ -12,11 +12,13 @@ Sḵwx̱wú7mesh (Squamish), Canada
 
 # Personal Profile
 
-I am a meticulous user-experience driven engineer focusing on producing high quality readable code, drawing on my non-technical background to improve understanding of user pain points. I identify issues across the business and lead initiatives to improve both customer outcomes and employee satisfaction.
+I am a meticulous, user-experience driven engineer, focusing on producing high quality features, drawing on my non-technical background to improve understanding of user pain points. I identify issues across the business and lead initiatives to improve both customer outcomes and employee satisfaction.
 
 # Experience
 
 ## Sabbatical (July 2024 - present)
+
+Took a short professional break to focus on personal health and wellness goals, including working with professional trail running coaches and completing my first three day trail running stage race.
 
 ## Tailscale (March 2021 - July 2024)
 
