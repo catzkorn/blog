@@ -16,7 +16,13 @@ I am a meticulous, user-experience driven engineer, focusing on producing high q
 
 # Experience
 
-## Sabbatical (July 2024 - present)
+## Edera (November 2024 - present)
+
+### _Senior Software Engineer_
+
+_Rust, Go, Typescript, React, among others_
+
+## Sabbatical (July 2024 - November 2024)
 
 Took a short professional break to focus on personal health and wellness goals, including working with professional trail running coaches and completing my first three day trail running stage race.
 
