@@ -1,3 +1,9 @@
-public
-.DS_Store
+# Hugo output
+public/
+resources/
+.hugo_build.lock
+
+# Editor
 .vscode/
+.idea/
+.DS_Store
