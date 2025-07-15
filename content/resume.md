@@ -16,15 +16,35 @@ I am a meticulous, user-experience driven engineer, focusing on producing high q
 
 # Experience
 
-## Edera (November 2024 - present)
+## Edera (November 2024 - Present)
 
 ### _Senior Software Engineer_
 
-_Rust, Go, Typescript, React, among others_
+_Go, Rust, Typescript, React, Prometheus, among others_
+
+Joined as an early engineer focusing on product user experience, from the CLI to observability and documentation, while improving backend processes and tooling.
+
+- Designed and delivered the Edera Demo Portal, a website which dynamically deploys the Edera Protect product in the cloud, allowing users to test the product via a browser-embedded SSH session, securely proxied via a websocket. This was created for Kubecon EU as an engineering driven effort to gain business leads.
+
+- Redesigned and reimplemented the Edera Orchestrator from Rust to Go, increasing documentation, testing and functionality standards of the service.
+
+- Developed a framework for future observability standards and implemented the first phase in the Edera Orchestrator, following industry best practices.
+
+- Rewrote the existing Rust-specific Protobuf generation script into a generation-language agnostic, flexible and extensible framework, including linting, formatting and generation. Implemented industry best practice CI jobs to ensure consistent generation from Protobuf files.
+
+- Refactored legacy code for the Edera Kubernetes SPDY proxy to improve readability, adding tests and remediating issues found. Added support for the Kubernetes v5 Port-Forward protocol, utilizing SPDY and gRPC bidirectional streaming.
+
+- Added auto-completion and made various user experience improvements to the Edera Protect CLI.
+
+- Relaunched the [Edera documentation](https://docs.edera.dev/) site, added CLI and Metrics docs, as well as lead generating call to actions.
+
+- Created developer docs for setting up the Edera development environment, both locally and cloud-based, reducing friction for engineers.
+
+- Spearheaded multiple internal initiatives surrounding customer experience, developer experience, development process and other areas.
 
 ## Sabbatical (July 2024 - November 2024)
 
-Took a short professional break to focus on personal health and wellness goals, including working with professional trail running coaches and completing my first three day trail running stage race.
+Short sabbatical to pursue personal health and endurance sport goals, including a multi-day trail running stage race.
 
 ## Tailscale (March 2021 - July 2024)
 
@@ -81,7 +101,6 @@ _Base and Heavy Metal Mobilisation during Hydraulic Fracturing of Black Shales_
 
 - Exploring fluid-rock interactions and metal mobilisation to inform regulation and best practices for shale exploration onshore in the United Kingdom.
 - Solely responsible for project management and direction, designing and executing experimental procedures simulating hydraulic fracturing conditions in a laboratory setting.
-- Presented research at internal and international conferences.
 - Withdrew from the program prematurely in 2019 due to illness.
 
 ## University of Portsmouth (2011-2014)
@@ -90,10 +109,6 @@ _Base and Heavy Metal Mobilisation during Hydraulic Fracturing of Black Shales_
 
 _Acid Mine Drainage and Toxic Metal Contamination from Abandoned Mine Tailings in Adak, Northern Sweden_
 
-- Researched scientific literature to find follow-up research opportunities.
-- Evolved prior research methodologies to account for improvements in analytical technologies.
-- Awarded _Best Presentation 2014_ for research findings and presentation.
-
 # Interests
 
-My personal interests include outdoor sports such as trail running, mountaineering, skiing and mountain biking. I am currently training to run a trail ultra marathon. I enjoy reading fiction and non-fiction books, watching movies, playing board games, listening to music of all genres, and I have been a lifelong fan of motorsport. I continue to have a personal interest in global environmental issues and actively keep up-to-date on the latest science.
+Trail running, mountaineering, skiing, and motorsport enthusiast. Currently training for a trail ultra marathon. Passionate about environmental science and global sustainability.

@@ -4,16 +4,16 @@ publish = "public"
 
 [context.production.environment]
 HUGO_ENABLEGITINFO = "true"
-HUGO_VERSION = "0.128.2"
+HUGO_VERSION = "0.148.1"
 
 [context.deploy-preview]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.128.2"
+HUGO_VERSION = "0.148.1"
 
 [context.branch-deploy]
 command = "hugo -b https://${BRANCH}.catzkorn.dev"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.128.2"
+HUGO_VERSION = "0.148.1"
