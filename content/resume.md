@@ -14,7 +14,7 @@ Sḵwx̱wú7mesh (Squamish), Canada
 
 # Personal Profile
 
-I am a meticulous, user-experience driven engineer, focusing on producing high quality features, drawing on my non-technical background to improve understanding of user pain points. I identify issues across the business and lead initiatives to improve both customer outcomes and employee satisfaction.
+Meticulous, user-focused software engineer with a strong track record of delivering high-quality features that address real user needs. Leverage a non-technical background to bring a unique, empathetic lens to product development. Proactively identify cross-functional issues and lead initiatives that improve both customer experience and internal workflows.
 
 # Experience
 
