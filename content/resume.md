@@ -1,6 +1,8 @@
 ---
 type: "resume"
 layout: "resume"
+geometry: margin=2cm
+output: pdf_document
 ---
 
 # Charlotte Brandhorst-Satzkorn
