@@ -18,7 +18,7 @@ Meticulous, user-focused software engineer with a strong track record of deliver
 
 # Experience
 
-## Edera (November 2024 - Present)
+## Edera (November 2024 - July 2025)
 
 ### _Senior Software Engineer_
 
